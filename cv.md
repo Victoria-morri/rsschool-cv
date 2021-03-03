@@ -12,9 +12,9 @@ morriface@mail.ru
 github.com/Victoria-morri
 ### P R O J E C T S
 [Keksobooking](https://github.com/Victoria-morri/1356951-keksobooking-21)
-![Screen of Keksobooking](https://wmpics.pics/di-RWOH.png =300x)
+![Screen of Keksobooking](https://wmpics.pics/di-RWOH.png)
 [Cinemaddict](https://github.com/Victoria-morri/1356951-cinemaddict-13)
-![Screen of Cinemaddict](https://wmpics.pics/di-Y52N.png =300x)
+![Screen of Cinemaddict](https://wmpics.pics/di-Y52N.png)
 ### S U M M A R Y
 Hello. Let's get acquainted. My name is Victoria and I am mastering a new profession of front-end developer. Here I will briefly introduce myself.
 I started my career as a schoolgirl, I didn't want to depend on my parents. While getting higher education, I also continued to work and even went to the United States on a work and travel program, where I was able to improve my English. When I returned, I continued my work in sales, fulfilled plans, found many new clients (I was the best on this point), and received an offer with a promotion to the position of an administrator (personnel management, execution of plans, etc.).
