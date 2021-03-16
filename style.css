@@ -46,6 +46,11 @@ body {
     background-image: url("img/icon-phone-header.svg");
   }
 
+  .header-github {
+    padding-left: 25px;
+    background-image: url("img/icon-github-header.svg");
+  }
+
   .hero-image {
     margin-bottom: 620px;
   }
@@ -99,6 +104,23 @@ body {
     margin: 0 0 32px;
   }
 
+  .education-list dt {
+    padding-left: 32px;
+    background-repeat: no-repeat;
+    background-position: left top;
+  }
+
+  .education-rfei {
+    background-image: url("img/icon-rfei.svg");
+  }
+
+  .education-synergy {
+    background-image: url("img/icon-synergy.svg");
+  }
+
+  .education-html {
+    background-image: url("img/icon-html-academy.svg");
+  }
   .skills-list {
     margin: 0;
     padding: 0;
@@ -122,8 +144,28 @@ body {
     background-image: url("img/icon-js.svg");
   }
 
+  .skill-devtools {
+    background-image: url("img/icon-devtools.svg");
+  }
+
   .skill-ecmascript {
     background-image: url("img/icon-es6.svg");
+  }
+
+  .skill-git {
+    background-image: url("img/icon-github.svg");
+  }
+
+  .skill-vs {
+    background-image: url("img/icon-vs-code.svg");
+  }
+
+  .skill-cmder {
+    background-image: url("img/icon-cmder.svg");
+  }
+
+  .skill-english {
+    background-image: url("img/icon-english.svg");
   }
 
   .level {
@@ -158,7 +200,11 @@ body {
   }
 
   .project-image {
-    margin: 0 0 24px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 40%;
+    margin: 3%;
+    /* <!-- 0 0 24px;-->*/
     text-align: center;
   }
 
