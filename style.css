@@ -121,6 +121,11 @@ body {
   .education-html {
     background-image: url("img/icon-html-academy.svg");
   }
+
+  .education-epam {
+    background-image: url("img/icon-epam.svg");
+  }
+
   .skills-list {
     margin: 0;
     padding: 0;
@@ -142,6 +147,10 @@ body {
 
   .skill-js {
     background-image: url("img/icon-js.svg");
+  }
+
+  .skill-react {
+    background-image: url("img/react_logo.svg");
   }
 
   .skill-devtools {
