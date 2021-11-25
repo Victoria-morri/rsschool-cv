@@ -10,10 +10,6 @@ Saint Petersburg
 morriface@mail.ru
 #### Github
 github.com/Victoria-morri
-### P R O J E C T S
-[Keksobooking](https://keksobooking-584cbb.netlify.app)
-
-[Cinemaddict](https://cinemaddict-d158a3.netlify.app)
 
 ### S U M M A R Y
 Hello. Let's get acquainted. My name is Victoria and I am mastering a new profession of front-end developer. Here I will briefly introduce myself.
@@ -21,24 +17,7 @@ I started my career as a schoolgirl, I didn't want to depend on my parents. Whil
 Having a good job, I decided to develop further and began to build low-rise buildings in private sectors for the purpose of resale, which made it possible to improve my financial capabilities and completely switch to construction. And why IT? ...
 Even at school she loved mathematics, the knowledge of which helped in the construction of houses. And now I can afford to do what I like.
 From the above, it is not difficult to guess that I am a strong-willed person and love self-development.
-### C O D E
-```
-function stairs(n) { // n- quantity of steps
-  let result = ``;
-  let tyt = Array(n).fill(` `);
-  for (let i = n - 1; i >= 0; i--) {
-    let rer = tyt.fill(`#`, i);
-    let op = i === 0 ? `` : `\n`;
-   result += rer.join(``) + op;
-  }
-return result;
-}
-stairs(5)
-"    #
-   ##
-  ###
- ####
-#####";
+
 ```
 ### E D U C A T I O N
 * 2005-2011 Regional financial and economic institute

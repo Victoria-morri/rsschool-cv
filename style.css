@@ -30,12 +30,24 @@ body {
 
   .page-header a {
     margin-left: 56px;
-    color: #288be6;
     text-decoration: none;
     background-repeat: no-repeat;
     background-position: left;
   }
 
+  .button-cv {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: #288be6;
+    color: #ffffff;
+  }
+
+  .blue-color {
+    color: #288be6;
+  }
   .header-email {
     padding-left: 30px;
     background-image: url("img/icon-email-header.svg");
@@ -250,6 +262,7 @@ body {
     background-color: #288be6;
     color: #ffffff;
   }
+
 
   .page-footer {
     padding: 40px 0;
